@@ -1,6 +1,5 @@
 This python script will convert Irish Transverse Mercator (ITM) geographic coordinates to Latitude and Longitude by iterating through a .csv file.
 
-Reference: https://stackoverflow.com/users/2832976/luistavares 
+It expands on Luis Tavares's script slightly by iterating through a .csv file instead of returning just one set of coordinates. 
 
-Reference: https://stackoverflow.com/questions/58482966/itm-irish-transverse-coordinate-conversion-to-gps-for-google-maps-python3
-
+Reference: https://stackoverflow.com/users/2832976/luistavares
